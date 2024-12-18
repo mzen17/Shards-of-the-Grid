@@ -1,5 +1,5 @@
 # Shards of the Grid
-An interactive game held on Heroku.
+An interactive game held on Heroku. Check out Wiki for more details.
 
 This was developed by Team 9 of CS:5820 SELT.
 
